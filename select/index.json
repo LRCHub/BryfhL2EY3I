@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心配ないよ、全部うまくいく。 (Cover)",
+  "base_artist": "心音-kokone",
+  "createdAt": "2026-03-08T14:08:44.461992Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心配ないよ、全部うまくいく。 (Cover)",
+      "artist": "心音-kokone",
+      "has_synced": false,
+      "path": "select/pl_01_心配ないよ、全部うまくいく。_(Cover)_心音-kokone.txt"
+    }
+  ]
+}
